@@ -29,11 +29,11 @@ The main screen features an easy-to-use interface with a brightness slider for a
 
 ### Settings Screen
 Here, you can customize the app's appearance, flashlight settings, and notifications.  
-![Settings Screen](file:///mnt/data/settings.png)
+![Settings Screen](assets/settings.png)
 
 ### Bright Mode
 The Bright Mode section allows you to control the intensity and set the flashlight to your preferred level.  
-![Bright Mode](file:///mnt/data/screenshot.png)
+![Bright Mode](assets/screenshot.png)
 
 ## Installation
 
